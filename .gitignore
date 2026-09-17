@@ -175,6 +175,16 @@ acs-*.bib
 # luatexja-ruby
 *.ltjruby
 
+# Arquivos temporários e de travamento do MS Office
+~$*.docx
+~$*.doc
+*.tmp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+
 # makeidx
 *.idx
 *.ilg
